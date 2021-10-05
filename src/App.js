@@ -15,8 +15,7 @@ function App() {
       <Switch>
       <Route path='/' exact component={Home}/>
       <Route path='/Services' exact component={Services}/>
-    
-                
+     
       </Switch>
 </BrowserRouter>
 
