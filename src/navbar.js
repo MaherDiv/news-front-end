@@ -52,7 +52,7 @@ function Navbar() {
 
           <li className='nav-item'>
             <Link
-              to='/WhoWeAre'
+              to='/services'
               className='nav-links'
               onClick={closeMobileMenu}
             >
@@ -63,7 +63,7 @@ function Navbar() {
                     
          <li className='nav-item'>
          <Link
-              to="/Niche"
+              to="/services"
               className='nav-links'
               onClick={closeMobileMenu}
             >
@@ -73,7 +73,7 @@ function Navbar() {
           </li>    
           <li className='nav-item'>
          <Link
-              to="/Niche"
+              to="/services"
               className='nav-links'
               onClick={closeMobileMenu}
             >
@@ -83,7 +83,7 @@ function Navbar() {
           </li>   
           <li className='nav-item'>
          <Link
-              to="/Niche"
+              to="/services"
               className='nav-links'
               onClick={closeMobileMenu}
             >
@@ -93,7 +93,7 @@ function Navbar() {
           </li> 
           <li className='nav-item'>
          <Link
-              to="/Niche"
+              to="/services"
               className='nav-links'
               onClick={closeMobileMenu}
             >
@@ -103,7 +103,7 @@ function Navbar() {
           </li>  
           <li className='nav-item'>
          <Link
-              to="/Niche"
+              to="/services"
               className='nav-links'
               onClick={closeMobileMenu}
             >

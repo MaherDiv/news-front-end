@@ -1,0 +1,23 @@
+
+.user-welcome{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.welcome{
+    
+    font-family: 'Playfair Display', serif;
+    margin-top: 1.5rem;
+    margin-right:16rem ;
+    margin-bottom: 0rem;
+    color: #fff;
+    background-color: none;
+    border: none;
+    text-decoration: none;
+    padding: 0.3rem 1rem;
+    font-size: 1.1rem;
+    position:absolute;
+    z-index: 10;
+    
+}
