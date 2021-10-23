@@ -44,6 +44,6 @@ app.put('/image', (req, res) => {image.handleImage(req, res, db)})
 
 
 
-app.listen(8080, () => {  
-console.log('app is runing on localhost:8080')
-});
+app.listen(process.env.PORT || 8080, () => {  
+console.log(`app is runing on localhost ${process.env.PORT}`);
+})
