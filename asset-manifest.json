@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/news-front-end/static/css/main.864f609e.chunk.css",
+    "main.js": "/news-front-end/static/js/main.9bd581a5.chunk.js",
+    "main.js.map": "/news-front-end/static/js/main.9bd581a5.chunk.js.map",
+    "runtime-main.js": "/news-front-end/static/js/runtime-main.90051a3a.js",
+    "runtime-main.js.map": "/news-front-end/static/js/runtime-main.90051a3a.js.map",
+    "static/js/2.f2ce8eb6.chunk.js": "/news-front-end/static/js/2.f2ce8eb6.chunk.js",
+    "static/js/2.f2ce8eb6.chunk.js.map": "/news-front-end/static/js/2.f2ce8eb6.chunk.js.map",
+    "static/js/3.b1260c2d.chunk.js": "/news-front-end/static/js/3.b1260c2d.chunk.js",
+    "static/js/3.b1260c2d.chunk.js.map": "/news-front-end/static/js/3.b1260c2d.chunk.js.map",
+    "index.html": "/news-front-end/index.html",
+    "static/css/main.864f609e.chunk.css.map": "/news-front-end/static/css/main.864f609e.chunk.css.map",
+    "static/js/2.f2ce8eb6.chunk.js.LICENSE.txt": "/news-front-end/static/js/2.f2ce8eb6.chunk.js.LICENSE.txt",
+    "static/media/SignUp.css": "/news-front-end/static/media/bg.bf33d688.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90051a3a.js",
+    "static/js/2.f2ce8eb6.chunk.js",
+    "static/css/main.864f609e.chunk.css",
+    "static/js/main.9bd581a5.chunk.js"
+  ]
+}
