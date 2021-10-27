@@ -25,7 +25,7 @@ class SignUp extends React.Component{
 
 
    onSubmitSignIn = () => {
-    fetch('http://localhost:8080/register',{
+    fetch('https://damp-hollows-27928.herokuapp.com/register',{
 
         method: 'post',
         headers: {'Content-Type' : 'application/json'},
